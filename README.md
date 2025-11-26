@@ -11,7 +11,7 @@ I'm Landon Edwards, a student at Brigham Young University-Idaho interested in so
 
 ## Technologies and Tools
 
-- Proficient in: Python, C#, HTML, CSS, JavaScript
+- Proficient in: Python, C#, C++, HTML, CSS, JavaScript
 - Skills: MySQL, Excel, Word Processing
 
 ## Significant Projects
