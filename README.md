@@ -11,15 +11,18 @@ I'm Landon Edwards, a student at Brigham Young University-Idaho interested in so
 
 ## Technologies and Tools
 
-- Proficient in: Python, C#, C++, HTML, CSS, JavaScript
+- Proficient in: C++, HTML, CSS, JavaScript, Python, C#
 - Skills: MySQL, Excel, Word Processing, AWS
 
 ## Significant Projects
 
-- [Fire Emblem Engage Growth Calculator](https://github.com/landonedwards/wdd131/tree/main/engagecalc)
-- [Fire Emblem Ironman Tracker](https://github.com/landonedwards/ironmanTracker)
+- [Recipe Sharing Platform](https://github.com/landonedwards/cse340-final-project)
 - [FilmFinder](https://github.com/landonedwards/wdd231_team)
 - [Mock National Park Service Site](https://github.com/landonedwards/nps)
+- [Fire Emblem Engage Growth Calculator](https://github.com/landonedwards/wdd131/tree/main/engagecalc)
+- [Fire Emblem Ironman Tracker](https://github.com/landonedwards/ironmanTracker)
+
+
 ## Let's Connect!
 
 - Here is my [LinkedIn](www.linkedin.com/in/landon-edwards-033061293) profile
