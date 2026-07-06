@@ -16,6 +16,7 @@ I'm Landon Edwards, a student at Brigham Young University-Idaho interested in so
 
 ## Significant Projects
 
+- [Orbital Mechanics Simulator](https://github.com/landonedwards/orbitalMechanicsSimulator)
 - [Recipe Sharing Platform](https://github.com/landonedwards/cse340-final-project)
 - [FilmFinder](https://github.com/landonedwards/wdd231_team)
 - [Mock National Park Service Site](https://github.com/landonedwards/nps)
