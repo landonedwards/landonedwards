@@ -2,7 +2,7 @@
 
 Hello! 👋
 
-I'm Landon Edwards, a student at Brigham Young University-Idaho interested in software and web development. Welcome to my GitHub profile!
+I'm Landon Edwards, a student at Brigham Young University-Idaho studying software and web development. Welcome to my GitHub profile!
 
 ## About Me
 
