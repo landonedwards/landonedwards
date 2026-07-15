@@ -18,6 +18,7 @@ I'm Landon Edwards, a student at Brigham Young University-Idaho studying softwar
 
 - [Orbital Mechanics Simulator](https://github.com/landonedwards/orbitalMechanicsSimulator)
 - [Recipe Sharing Platform](https://github.com/landonedwards/cse340-final-project)
+- [Optimealz](https://github.com/landonedwards/optimealz)
 - [FilmFinder](https://github.com/landonedwards/wdd231_team)
 - [Mock National Park Service Site](https://github.com/landonedwards/nps)
 - [Fire Emblem Engage Growth Calculator](https://github.com/landonedwards/wdd131/tree/main/engagecalc)
