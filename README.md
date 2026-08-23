@@ -2,7 +2,7 @@
 
 Hello! 👋
 
-I'm Landon Edwards, a student at Brigham Young University-Idaho studying software and web development. Welcome to my GitHub profile!
+I'm Landon Edwards, a senior at Brigham Young University-Idaho studying software and web development. Welcome to my GitHub profile!
 
 ## About Me
 
@@ -11,7 +11,7 @@ I'm Landon Edwards, a student at Brigham Young University-Idaho studying softwar
 
 ## Technologies and Tools
 
-- Proficient in: C++, HTML, CSS, JavaScript, Python, C#
+- Proficient in: C++, HTML, CSS, JavaScript/TypeScript, Python, C#
 - Skills: MySQL, Excel, Word Processing, AWS
 
 ## Significant Projects
